@@ -1,2 +1,2 @@
-system
-PyQt5
+pip install system
+pip install PyQt5
